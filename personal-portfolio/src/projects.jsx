@@ -1,9 +1,12 @@
-import logo from './logo.svg'
-import home from'./Images/home.jpg'
+
 import every_recipe from'./Images/every_recipe.png'
 import pool from'./Images/3dpool.png'
 import dwdt from'./Images/dwdt.png'
 import angus from'./Images/angus.png'
+import pool2 from './Images/pool2.png'
+import recipe2 from './Images/recipe2.png'
+
+
 
 // Temporary images (replace with real screenshots by placing files in src/Images and updating imports)
 const projects = [
@@ -13,7 +16,6 @@ const projects = [
     image: every_recipe,
     linkType: 'website',
     linkUrl: 'https://every-recipe.vercel.app/',
-    videoUrl: '/recipe.mp4',
     codeLinkUrl: 'https://github.com/angus123456j',
     why: 'I wanted to build a production‑style app end‑to‑end: auth, storage, and a fast UI for real users.',
     skills: ['React', 'Tailwind', 'Node/Express', 'MongoDB', 'AWS Cognito', 'AWS S3']
@@ -33,7 +35,7 @@ const projects = [
     image: pool,
     linkType: 'github',
     linkUrl: 'https://github.com/angus123456j',
-    videoUrl: '/pool-demo.mp4',
+    image: pool2,
     why: 'I enjoy physics and games—this project let me code gameplay systems and polish feel.',
     skills: ['C#', 'Unity', 'Physics', 'Gameplay']
     // no link yet
