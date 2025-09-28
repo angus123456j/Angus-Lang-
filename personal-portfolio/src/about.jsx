@@ -1,4 +1,4 @@
-import portfolioimage from './Images/home.jpg';
+import angus88 from './Images/angus88.png';
 
 function About() {
     return(
@@ -11,7 +11,7 @@ function About() {
 
         <div className="row gy-4 justify-content-center"> 
           <div className="col-lg-4">
-            <img src= {portfolioimage} className="img-fluid" alt=""/>
+            <img src= {angus88} className="img-fluid" alt=""/>
           </div>
           <div className="col-lg-8 content">
             <h2>Software Engineering Student &amp; Full‑Stack Developer</h2>

@@ -10,7 +10,7 @@ function Intro() {
 
     useEffect( () => {
       const typed = new Typed(el.current,{
-        strings:["Software Engineer", "Developer", "Innovator", "Problem Solver"],
+        strings:["a Software Engineer", "a Developer", "an Innovator", "a Problem Solver"],
         loop: true,
         typeSpeed: 100,
         backSpeed: 50,
