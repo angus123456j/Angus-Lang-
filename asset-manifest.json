@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Angus-Lang-/static/css/main.a6f3e2fd.css",
-    "main.js": "/Angus-Lang-/static/js/main.0f2cd07d.js",
+    "main.js": "/Angus-Lang-/static/js/main.232a86a8.js",
     "static/js/453.4e9befeb.chunk.js": "/Angus-Lang-/static/js/453.4e9befeb.chunk.js",
     "static/media/ang.png": "/Angus-Lang-/static/media/ang.1fa534d2f7a174ae14d0.png",
     "static/media/every_recipe.png": "/Angus-Lang-/static/media/every_recipe.c05198cd5f212623c3bb.png",
@@ -16,11 +16,11 @@
     "static/media/logo.svg": "/Angus-Lang-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Angus-Lang-/index.html",
     "main.a6f3e2fd.css.map": "/Angus-Lang-/static/css/main.a6f3e2fd.css.map",
-    "main.0f2cd07d.js.map": "/Angus-Lang-/static/js/main.0f2cd07d.js.map",
+    "main.232a86a8.js.map": "/Angus-Lang-/static/js/main.232a86a8.js.map",
     "453.4e9befeb.chunk.js.map": "/Angus-Lang-/static/js/453.4e9befeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6f3e2fd.css",
-    "static/js/main.0f2cd07d.js"
+    "static/js/main.232a86a8.js"
   ]
 }
